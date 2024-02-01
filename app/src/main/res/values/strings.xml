@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Debug Example</string>
+    <string name="button_text">Click Me!</string>
+    <string name="decrement">Decrement</string>
+    <string name="increment">Increment</string>
+</resources>
